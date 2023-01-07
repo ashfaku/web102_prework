@@ -23,7 +23,7 @@ Added animation when user hovers over a game card.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+<iframe class="imgur-embed" width="100%" height="1800" frameborder="0" src="https://i.imgur.com/1sWg9Wy.gifv#embed"></iframe>
 <img src='https://imgur.com/1sWg9Wy' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
