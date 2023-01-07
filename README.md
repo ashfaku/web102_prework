@@ -23,7 +23,9 @@ Added animation when user hovers over a game card.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
 <img src='https://i.imgur.com/1sWg9Wy.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Imgur](https://i.imgur.com/1sWg9Wy.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap for macOS
